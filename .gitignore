@@ -1,0 +1,40 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Diretórios de build
+_build/
+_build*/
+*.cmx
+*.cmi
+*.cmo
+*.o
+*.a
+*.cmxa
+*.cmxs
+*.so
+*.exe
+
+# Dependências do OPAM
+.opam/
+
+# Arquivos de configuração do ambiente
+.env
+.env.local
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Diretórios e arquivos específicos do IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
